@@ -64,27 +64,27 @@ Technologies: **Python, Web Scraping, Data Processing**
 
 **Oh did I mention that I am also into poetry? This one happens to rest printed in the StaBi Munich**
 
-Erloschen ist des Lebens Klang,
-Im seufzend Wind hinfort geweht.
-Doch nicht verdammt zum Untergang
-Im Kranze er forthin besteht.
-
-Es liegt ein Mantel auf der Welt,
-Ein Mantel der Erinnerung.
-Nur funkelnd Schnee am Himmelszelt
-Verschafft der Liebe Linderung.
-
-Denn Sehnsucht früh'rer Farbenpracht
-Pulsiert im Strom der Winterluft,
-Bis schlafend Zauber neu erwacht
-Sie lieblich füllt mit Kräuterduft.
-
-Oh Kälte frier' das Herz mir ein,
-Will schlafen auch in langer Nacht,
-Solange kahl im Mondenschein
-Geäst allein nur schwanke sacht.
-
-- F.J.H.
+Erloschen ist des Lebens Klang,\
+Im seufzend Wind hinfort geweht.\
+Doch nicht verdammt zum Untergang\
+Im Kranze er forthin besteht.\
+\\
+Es liegt ein Mantel auf der Welt,\
+Ein Mantel der Erinnerung.\
+Nur funkelnd Schnee am Himmelszelt\
+Verschafft der Liebe Linderung.\
+\\
+Denn Sehnsucht früh'rer Farbenpracht\
+Pulsiert im Strom der Winterluft,\
+Bis schlafend Zauber neu erwacht\
+Sie lieblich füllt mit Kräuterduft.\
+\\
+Oh Kälte frier' das Herz mir ein,\
+Will schlafen auch in langer Nacht,\
+Solange kahl im Mondenschein\
+Geäst allein nur schwanke sacht.\
+\\
+\- F.J.H.
 
 
 
