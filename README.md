@@ -18,7 +18,7 @@ Since then, I've been setting and spiking challenges in volleyball, strategizing
 
 ## 🛠️ Featured Projects
 
-### [C-Charge: E-Vehicle Charging and Solar Power Sharing](Link to Project Repo)
+### [C-Charge: E-Vehicle Charging and Solar Power Sharing](https://cchaindev.db.in.tum.de)
 **An app, server, and control module system to enable communities to share excess solar energy via wallboxes.**  
 Technologies: **GOlang, Python, Flutter, Kotlin, Dart, Embedded Systems**  
 - 🌟 Local solar energy trading platform
