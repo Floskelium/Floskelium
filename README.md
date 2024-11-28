@@ -8,6 +8,7 @@ With a strong foundation in app development and backend engineering, I specializ
 ## 🚀 About Me
 - 🌱 Currently exploring: **Full-stack (mobile & web) applications and creative data collection projects**
 - 💡 Passionate about: **Developing innovative solutions for real-world problems, optimizing backend systems, and uncovering insights from diverse datasets**
+- 📦 Loves to containerize :D
 - 📫 How to reach me: **florian.j.hauck@tum.de**
 
 Fun fact: I started programming in 5th grade, later wrote various Minecraft server plugins and hosted a game server, which fueled my love for coding.
@@ -43,12 +44,13 @@ Technologies: **Python, Web Scraping, Data Processing**
 - 🌟 Applications in knowledge graph development
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Floskelium&show_icons=true&theme=radical)
 
 ---
+-->
 
 ## 🤝 Let's Connect
 - 🌐 [C-Charge Website](https://cchaindev.db.in.tum.de)
@@ -60,7 +62,30 @@ Technologies: **Python, Web Scraping, Data Processing**
 
 ---
 
-**Volleying data, strategizing in chess, and coding up a storm**
+**Oh did I mention that I am also into poetry? This one happens to rest printed in the StaBi Munich**
+
+Erloschen ist des Lebens Klang,
+Im seufzend Wind hinfort geweht.
+Doch nicht verdammt zum Untergang
+Im Kranze er forthin besteht.
+
+Es liegt ein Mantel auf der Welt,
+Ein Mantel der Erinnerung.
+Nur funkelnd Schnee am Himmelszelt
+Verschafft der Liebe Linderung.
+
+Denn Sehnsucht früh'rer Farbenpracht
+Pulsiert im Strom der Winterluft,
+Bis schlafend Zauber neu erwacht
+Sie lieblich füllt mit Kräuterduft.
+
+Oh Kälte frier' das Herz mir ein,
+Will schlafen auch in langer Nacht,
+Solange kahl im Mondenschein
+Geäst allein nur schwanke sacht.
+
+- F.J.H.
+
 
 
 <!--
