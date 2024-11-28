@@ -36,7 +36,7 @@ Technologies: **Python, Pandas, Data Visualization Tools**
 
 ---
 
-### [Wikipedia Data Mining](https://github.com/JuliaPelzer/check25)
+### [Wikipedia Data Mining](https://github.com/Floskelium/WikipediaTrendsDE)
 **A project exploring Wikipedia datasets to extract meaningful insights.**  
 Technologies: **Python, Web Scraping, Data Processing**  
 - 🌟 Fetching e.g. most searched data from wikipedia 
