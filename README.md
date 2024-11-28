@@ -1,6 +1,6 @@
 
 # Hello World! 👋
-I'm **Florian H.**, a **Data Engineer (M.Sc)** and **Informatics Graduate (B.Sc)** from the Technical University of Munich (TUM).
+I'm **Florian H.**, a **Data Engineering and Analytics (M.Sc)** and **Informatics Graduate (B.Sc)** from the Technical University of Munich (TUM).
 With a strong foundation in app development and backend engineering, I specialize and love collecting, analyzing, and visualizing complex datasets, as showcased in my projects.
 
 ---
