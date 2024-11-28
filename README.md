@@ -60,35 +60,6 @@ Technologies: **Python, Web Scraping, Data Processing**
   - AI related stuff
   - Projects that enhance the world environmentally or socially <3
 
----
-
-**Oh did I mention that I am also into poetry? This one happens to rest printed in the StaBi Munich**
-
-Erloschen ist des Lebens Klang,\
-Im seufzend Wind hinfort geweht.\
-Doch nicht verdammt zum Untergang\
-Im Kranze er forthin besteht.\
-&nbsp; 
-
-Es liegt ein Mantel auf der Welt,\
-Ein Mantel der Erinnerung.\
-Nur funkelnd Schnee am Himmelszelt\
-Verschafft der Liebe Linderung.\
-&nbsp; 
-
-Denn Sehnsucht früh'rer Farbenpracht\
-Pulsiert im Strom der Winterluft,\
-Bis schlafend Zauber neu erwacht\
-Sie lieblich füllt mit Kräuterduft.\
-&nbsp; 
-
-Oh Kälte frier' das Herz mir ein,\
-Will schlafen auch in langer Nacht,\
-Solange kahl im Mondenschein\
-Geäst allein nur schwanke sacht.\
-&nbsp; 
-
-F.H.
 
 
 
