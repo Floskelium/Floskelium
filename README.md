@@ -68,23 +68,27 @@ Erloschen ist des Lebens Klang,\
 Im seufzend Wind hinfort geweht.\
 Doch nicht verdammt zum Untergang\
 Im Kranze er forthin besteht.\
-\\
+&nbsp; 
+
 Es liegt ein Mantel auf der Welt,\
 Ein Mantel der Erinnerung.\
 Nur funkelnd Schnee am Himmelszelt\
 Verschafft der Liebe Linderung.\
-\\
+&nbsp; 
+
 Denn Sehnsucht früh'rer Farbenpracht\
 Pulsiert im Strom der Winterluft,\
 Bis schlafend Zauber neu erwacht\
 Sie lieblich füllt mit Kräuterduft.\
-\\
+&nbsp; 
+
 Oh Kälte frier' das Herz mir ein,\
 Will schlafen auch in langer Nacht,\
 Solange kahl im Mondenschein\
 Geäst allein nur schwanke sacht.\
-\\
-\- F.J.H.
+&nbsp; 
+
+F.H.
 
 
 
