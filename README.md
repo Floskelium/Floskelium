@@ -27,7 +27,7 @@ Technologies: **GOlang, Python, Flutter, Kotlin, Dart, Embedded Systems**
 
 ---
 
-### [Munich MVV Data Insights](Link to Project Repo)
+### [Munich MVV Data Insights](https://github.com/Floskelium/MVVData)
 **A project collecting and analyzing public transport data from the Munich MVV system.**  
 Technologies: **Python, Pandas, Data Visualization Tools**  
 - 🌟 Insights on transport delays & cancelations
